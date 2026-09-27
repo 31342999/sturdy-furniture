@@ -1,0 +1,6 @@
+{
+  "board": "arduino:avr:mega",
+  "port": "COM3",
+  "sketch": "code_for_infrared_sensor.ino",
+  "output": "build"
+}
